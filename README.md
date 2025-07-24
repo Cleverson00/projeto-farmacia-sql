@@ -1,6 +1,6 @@
 # Projeto SQL: Sistema de Gerenciamento de Farmácia (Módulo MySQL)
 
-Este repositório contém o script SQL completo para a implementação de um banco de dados de um sistema de farmácia. O projeto foi desenvolvido como parte do **Módulo MySQL (Parte 2)** do curso **"Bancos de Dados SQL e NoSQL do Básico ao Avançado"** da **Geek University** (Udemy).
+Este repositório contém o script SQL completo para a implementação de um banco de dados de um sistema de farmácia. O projeto foi desenvolvido como parte do **Módulo MySQL** do curso **"Bancos de Dados SQL e NoSQL do Básico ao Avançado"** da **Geek University** (Udemy).
 
 ## Sobre o Projeto:
 
